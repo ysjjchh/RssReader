@@ -30,8 +30,8 @@ class CXLazyImageView : DTLazyImageView, CXPhotoProtocol {
             }
     }
     
-    override func _notifyDelegate() {
-        super._notifyDelegate()
-        self.notifyImageDidFinishLoad()
-    }
+//    override func _notifyDelegate() {
+//        super._notifyDelegate()
+//        self.notifyImageDidFinishLoad()
+//    }
 }
