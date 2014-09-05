@@ -8,3 +8,5 @@ Pods/
 
 
 Podfile.lock
+
+*.xcuserstate
